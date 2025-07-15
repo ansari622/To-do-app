@@ -17,6 +17,8 @@ A simple and responsive ToDo List application made using **HTML**, **CSS**, and 
 3. Click on the "Add" button.
 4. Your task will appear in the list.
 
+## Screenshot Ui
+![Alt text](./screenshot.PNG)
 ## 🛠️ Technologies Used
 
 - HTML5
